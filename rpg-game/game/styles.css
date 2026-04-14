@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    /* use flexbox for centering */
+    justify-content: center;
+    /* horizontal center */
+    align-items: center;
+    /* vertical center */
+    background: url('assets/images/medieval-background2.jpg') no-repeat center center fixed;
+    /* your background image */
+    background-size: cover;
+    background-color: #000;
+    /* make sure it covers entire screen */
+    background-position: center;
+    /* center the background */
+    background-repeat: no-repeat;
+}
+
+.game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Canvas sizing */
+#gameCanvas {
+    border: 3px solid #000;
+    width: 90%;
+    height: 90%;
+    background: transparent;
+}
