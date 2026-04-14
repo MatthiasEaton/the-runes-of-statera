@@ -8,7 +8,7 @@ Play as a lone warrior tasked with collecting the ancient **Runes of Statera**�
 
 ## 🌐 Play the Game
 
-👉 [https://matthiaseaton.github.io/runes-of-statera-game/](https://matthiaseaton.github.io/the-runes-of-statera/)
+👉 [https://matthiaseaton.github.io/the-runes-of-statera/](https://matthiaseaton.github.io/the-runes-of-statera/)
 
 ---
 
